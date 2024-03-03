@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>Dialog</class>
+ <widget class="QDialog" name="Dialog">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>371</width>
+    <height>469</height>
+   </rect>
+  </property>
+  <property name="windowTitle">
+   <string>Dialog</string>
+  </property>
+  <widget class="QPushButton" name="pushButton_2">
+   <property name="geometry">
+    <rect>
+     <x>180</x>
+     <y>180</y>
+     <width>191</width>
+     <height>71</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">font: 12pt &quot;Impact&quot;;
+color: rgb(255, 255, 255);
+background-color: rgb(127, 127, 127);
+text-decoration: underline;</string>
+   </property>
+   <property name="text">
+    <string>FACEBOOK</string>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="pushButton">
+   <property name="geometry">
+    <rect>
+     <x>0</x>
+     <y>180</y>
+     <width>181</width>
+     <height>71</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">font: 12pt &quot;Impact&quot;;
+color: rgb(255, 255, 255);
+background-color: rgb(127, 127, 127);
+text-decoration: underline;</string>
+   </property>
+   <property name="text">
+    <string>BRAVE</string>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="pushButton_3">
+   <property name="geometry">
+    <rect>
+     <x>0</x>
+     <y>250</y>
+     <width>181</width>
+     <height>71</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">font: 12pt &quot;Impact&quot;;
+color: rgb(255, 255, 255);
+background-color: rgb(127, 127, 127);
+text-decoration: underline;</string>
+   </property>
+   <property name="text">
+    <string>YOUTUBE</string>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="pushButton_4">
+   <property name="geometry">
+    <rect>
+     <x>180</x>
+     <y>250</y>
+     <width>191</width>
+     <height>71</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">font: 12pt &quot;Impact&quot;;
+color: rgb(255, 255, 255);
+background-color: rgb(127, 127, 127);
+text-decoration: underline;</string>
+   </property>
+   <property name="text">
+    <string>PYCHARM</string>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="pushButton_5">
+   <property name="geometry">
+    <rect>
+     <x>0</x>
+     <y>320</y>
+     <width>181</width>
+     <height>71</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">font: 12pt &quot;Impact&quot;;
+color: rgb(255, 255, 255);
+background-color: rgb(127, 127, 127);
+text-decoration: underline;</string>
+   </property>
+   <property name="text">
+    <string>INTELLIJ</string>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="pushButton_6">
+   <property name="geometry">
+    <rect>
+     <x>180</x>
+     <y>320</y>
+     <width>191</width>
+     <height>71</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">font: 12pt &quot;Impact&quot;;
+color: rgb(255, 255, 255);
+background-color: rgb(127, 127, 127);
+text-decoration: underline;</string>
+   </property>
+   <property name="text">
+    <string>CLION</string>
+   </property>
+  </widget>
+  <widget class="QLineEdit" name="lineEdit">
+   <property name="geometry">
+    <rect>
+     <x>90</x>
+     <y>60</y>
+     <width>181</width>
+     <height>31</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">
+background-color: rgb(255, 255, 255);</string>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="pushButton_7">
+   <property name="geometry">
+    <rect>
+     <x>120</x>
+     <y>90</y>
+     <width>121</width>
+     <height>51</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">font: 12pt &quot;Impact&quot;;
+color: rgb(255, 255, 255);
+background-color: rgb(127, 127, 127);
+text-decoration: underline;</string>
+   </property>
+   <property name="text">
+    <string>Rechrche in Brave</string>
+   </property>
+  </widget>
+  <widget class="QLabel" name="label">
+   <property name="geometry">
+    <rect>
+     <x>0</x>
+     <y>160</y>
+     <width>101</width>
+     <height>21</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">background-color: none;
+text-decoration: underline;
+font: 12pt &quot;Impact&quot;;</string>
+   </property>
+   <property name="text">
+    <string>Quick Buttons:</string>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="pushButton_8">
+   <property name="geometry">
+    <rect>
+     <x>290</x>
+     <y>10</y>
+     <width>75</width>
+     <height>23</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">background-color: rgb(255, 0, 0);
+color: rgb(255, 255, 255);
+font: 8pt &quot;MS Shell Dlg 2&quot;;
+text-decoration: underline;</string>
+   </property>
+   <property name="text">
+    <string>EXIT</string>
+   </property>
+  </widget>
+ </widget>
+ <resources/>
+ <connections/>
+</ui>
